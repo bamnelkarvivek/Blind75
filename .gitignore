@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local configuration file (created by PyCharm)
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+venv3/
+__env/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
